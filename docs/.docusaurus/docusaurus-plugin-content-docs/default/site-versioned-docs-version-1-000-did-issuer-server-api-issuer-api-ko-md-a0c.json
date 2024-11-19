@@ -1,0 +1,39 @@
+{
+  "id": "did-issuer-server/api/Issuer_API_ko",
+  "title": "Issuer API",
+  "description": "- 일자: 2024-08-19",
+  "source": "@site/versioned_docs/version-1.000/did-issuer-server/api/Issuer_API_ko.md",
+  "sourceDirName": "did-issuer-server/api",
+  "slug": "/did-issuer-server/api/Issuer_API_ko",
+  "permalink": "/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-issuer/server/edit/main/versioned_docs/version-1.000/did-issuer-server/api/Issuer_API_ko.md",
+  "tags": [],
+  "version": "1.000",
+  "frontMatter": {
+    "puppeteer": {
+      "pdf": {
+        "format": "A4",
+        "displayHeaderFooter": true,
+        "landscape": false,
+        "scale": 0.8,
+        "margin": {
+          "top": "1.2cm",
+          "right": "1cm",
+          "bottom": "1cm",
+          "left": "1cm"
+        }
+      },
+      "image": {
+        "quality": 100,
+        "fullPage": false
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Open DID Issuer Database Table Definition",
+    "permalink": "/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer"
+  }
+}

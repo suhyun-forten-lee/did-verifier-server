@@ -1,0 +1,24 @@
+{
+  "id": "did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+  "title": "Open DID Issuer Database Table Definition",
+  "description": "- Date: 2024-09-04",
+  "source": "@site/versioned_docs/version-1.000/did-issuer-server/db/OpenDID_TableDefinition_Issuer.md",
+  "sourceDirName": "did-issuer-server/db",
+  "slug": "/did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+  "permalink": "/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-issuer/server/edit/main/versioned_docs/version-1.000/did-issuer-server/db/OpenDID_TableDefinition_Issuer.md",
+  "tags": [],
+  "version": "1.000",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Issuer API",
+    "permalink": "/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko"
+  },
+  "next": {
+    "title": "Issuer Server Error",
+    "permalink": "/did-issuer-server/docs/did-issuer-server/errorCode/Issuer_ErrorCode"
+  }
+}

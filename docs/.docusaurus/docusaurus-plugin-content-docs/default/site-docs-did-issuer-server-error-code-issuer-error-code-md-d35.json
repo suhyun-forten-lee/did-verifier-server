@@ -1,0 +1,43 @@
+{
+  "id": "did-issuer-server/errorCode/Issuer_ErrorCode",
+  "title": "Issuer Server Error",
+  "description": "- Date: 2024-08-20",
+  "source": "@site/docs/did-issuer-server/errorCode/Issuer_ErrorCode.md",
+  "sourceDirName": "did-issuer-server/errorCode",
+  "slug": "/did-issuer-server/errorCode/Issuer_ErrorCode",
+  "permalink": "/did-issuer-server/docs/next/did-issuer-server/errorCode/Issuer_ErrorCode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-issuer/server/edit/main/docs/did-issuer-server/errorCode/Issuer_ErrorCode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "puppeteer": {
+      "pdf": {
+        "format": "A4",
+        "displayHeaderFooter": true,
+        "landscape": false,
+        "scale": 0.8,
+        "margin": {
+          "top": "1.2cm",
+          "right": "1cm",
+          "bottom": "1cm",
+          "left": "1cm"
+        }
+      },
+      "image": {
+        "quality": 100,
+        "fullPage": false
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open DID Issuer Database Table Definition",
+    "permalink": "/did-issuer-server/docs/next/did-issuer-server/db/OpenDID_TableDefinition_Issuer"
+  },
+  "next": {
+    "title": "Open DID Issuer Server Installation And Operation Guide",
+    "permalink": "/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide"
+  }
+}

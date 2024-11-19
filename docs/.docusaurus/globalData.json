@@ -1,0 +1,96 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/did-issuer-server/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/did-issuer-server/docs/next",
+          "mainDocId": "did-issuer-server/api/Issuer_API_ko",
+          "docs": [
+            {
+              "id": "did-issuer-server/api/Issuer_API_ko",
+              "path": "/did-issuer-server/docs/next/did-issuer-server/api/Issuer_API_ko",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+              "path": "/did-issuer-server/docs/next/did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/errorCode/Issuer_ErrorCode",
+              "path": "/did-issuer-server/docs/next/did-issuer-server/errorCode/Issuer_ErrorCode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide",
+              "path": "/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko",
+              "path": "/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/did-issuer-server/docs/next/did-issuer-server/api/Issuer_API_ko",
+                "label": "did-issuer-server/api/Issuer_API_ko"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.000",
+          "label": "1.000",
+          "isLast": true,
+          "path": "/did-issuer-server/docs",
+          "mainDocId": "did-issuer-server/api/Issuer_API_ko",
+          "docs": [
+            {
+              "id": "did-issuer-server/api/Issuer_API_ko",
+              "path": "/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+              "path": "/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/errorCode/Issuer_ErrorCode",
+              "path": "/did-issuer-server/docs/did-issuer-server/errorCode/Issuer_ErrorCode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide",
+              "path": "/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko",
+              "path": "/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko",
+                "label": "did-issuer-server/api/Issuer_API_ko"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
