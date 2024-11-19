@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/did-verifier-server/blog","blogTitle":"Blog","authorsListPath":"/did-verifier-server/blog/authors"}')}}]);
