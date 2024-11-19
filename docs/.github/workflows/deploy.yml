@@ -16,14 +16,17 @@ jobs:
         with:
           node-version: 18 # Use Node.js 18 here
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build site
-        run: npm run build
+      - name: Install dependencies and Build site
+        run: |
+          cd ./docs
+          sudo rm -rf node_modules
+          sudo rm -f package-lock.json
+          sudo npm cache verify
+          sudo npm install
+          sudo npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build # Change this if your build output directory is different
+          publish_dir: ./docs/build # Change this if your build output directory is different
