@@ -1,319 +1,311 @@
 {
-  "/did-issuer-server/__docusaurus/debug-38b": {
+  "/did-verifier-server/__docusaurus/debug-8bf": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/__docusaurus/debug/config-36f": {
+  "/did-verifier-server/__docusaurus/debug/config-baa": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/__docusaurus/debug/content-13a": {
+  "/did-verifier-server/__docusaurus/debug/content-e1b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     },
-    "__props": "__props---did-issuer-server-docusaurus-debug-contentc-64-a49"
+    "__props": "__props---did-verifier-server-docusaurus-debug-content-020-5b6"
   },
-  "/did-issuer-server/__docusaurus/debug/globalData-5e0": {
+  "/did-verifier-server/__docusaurus/debug/globalData-e0b": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/__docusaurus/debug/metadata-923": {
+  "/did-verifier-server/__docusaurus/debug/metadata-69a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/__docusaurus/debug/registry-885": {
+  "/did-verifier-server/__docusaurus/debug/registry-a42": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/__docusaurus/debug/routes-e29": {
+  "/did-verifier-server/__docusaurus/debug/routes-e73": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docusaurus-debugb-38-d88"
+      "plugin": "plugin---did-verifier-server-docusaurus-debugb-38-ace"
     }
   },
-  "/did-issuer-server/blog-b9d": {
+  "/did-verifier-server/blog-dd2": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       },
       {
-        "content": "content---did-issuer-server-blogf-4-f-4a5"
+        "content": "content---did-verifier-server-blogf-4-f-43f"
       },
       {
-        "content": "content---did-issuer-server-blog-871-b51"
+        "content": "content---did-verifier-server-blog-871-f74"
       },
       {
-        "content": "content---did-issuer-server-blog-925-35d"
+        "content": "content---did-verifier-server-blog-925-991"
       }
     ],
-    "__props": "__props---did-issuer-server-blog-0-f-4-1c6"
+    "__props": "__props---did-verifier-server-blogcc-6-d83"
   },
-  "/did-issuer-server/blog/archive-9ac": {
+  "/did-verifier-server/blog/archive-591": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "__props": "__props---did-issuer-server-blog-archive-348-306"
+    "__props": "__props---did-verifier-server-blog-archivec-0-c-ac0"
   },
-  "/did-issuer-server/blog/authors-c29": {
+  "/did-verifier-server/blog/authors-c7f": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "__props": "__props---did-issuer-server-blog-authors-828-24a"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "__props": "__props---did-verifier-server-blog-authorseef-e90"
   },
-  "/did-issuer-server/blog/authors/all-sebastien-lorber-articles-984": {
+  "/did-verifier-server/blog/authors/all-sebastien-lorber-articles-dc3": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       },
       {
-        "content": "content---did-issuer-server-blogf-4-f-4a5"
+        "content": "content---did-verifier-server-blogf-4-f-43f"
       },
       {
-        "content": "content---did-issuer-server-blog-925-35d"
+        "content": "content---did-verifier-server-blog-925-991"
       }
     ],
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "__props": "__props---did-issuer-server-blog-authors-all-sebastien-lorber-articlesccf-832"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "__props": "__props---did-verifier-server-blog-authors-all-sebastien-lorber-articlesce-1-f2f"
   },
-  "/did-issuer-server/blog/authors/yangshun-18d": {
+  "/did-verifier-server/blog/authors/yangshun-04a": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       },
       {
-        "content": "content---did-issuer-server-blog-871-b51"
+        "content": "content---did-verifier-server-blog-871-f74"
       },
       {
-        "content": "content---did-issuer-server-blog-925-35d"
+        "content": "content---did-verifier-server-blog-925-991"
       }
     ],
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "__props": "__props---did-issuer-server-blog-authors-yangshun-5-a-9-80f"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "__props": "__props---did-verifier-server-blog-authors-yangshun-405-256"
   },
-  "/did-issuer-server/blog/first-blog-post-fa9": {
+  "/did-verifier-server/blog/first-blog-post-1b0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "content": "content---did-issuer-server-blog-first-blog-poste-27-fdf"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "content": "content---did-verifier-server-blog-first-blog-poste-27-1d6"
   },
-  "/did-issuer-server/blog/long-blog-post-51e": {
+  "/did-verifier-server/blog/long-blog-post-c42": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "content": "content---did-issuer-server-blog-long-blog-post-736-0c8"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "content": "content---did-verifier-server-blog-long-blog-post-736-86b"
   },
-  "/did-issuer-server/blog/mdx-blog-post-f93": {
+  "/did-verifier-server/blog/mdx-blog-post-5a7": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "content": "content---did-issuer-server-blog-mdx-blog-post-593-b4f"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "content": "content---did-verifier-server-blog-mdx-blog-post-593-d87"
   },
-  "/did-issuer-server/blog/tags-584": {
+  "/did-verifier-server/blog/tags-998": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "__props": "__props---did-issuer-server-blog-tags-3-dd-545"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "__props": "__props---did-verifier-server-blog-tagsb-21-5a4"
   },
-  "/did-issuer-server/blog/tags/docusaurus-3f8": {
+  "/did-verifier-server/blog/tags/docusaurus-de0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       },
       {
-        "content": "content---did-issuer-server-blogf-4-f-4a5"
+        "content": "content---did-verifier-server-blogf-4-f-43f"
       },
       {
-        "content": "content---did-issuer-server-blog-871-b51"
+        "content": "content---did-verifier-server-blog-871-f74"
       },
       {
-        "content": "content---did-issuer-server-blog-925-35d"
+        "content": "content---did-verifier-server-blog-925-991"
       }
     ],
-    "__props": "__props---did-issuer-server-blog-tags-docusaurusf-37-7e1"
+    "__props": "__props---did-verifier-server-blog-tags-docusaurus-9-f-1-6ba"
   },
-  "/did-issuer-server/blog/tags/facebook-eb7": {
+  "/did-verifier-server/blog/tags/facebook-07c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       }
     ],
-    "__props": "__props---did-issuer-server-blog-tags-facebook-1-ba-042"
+    "__props": "__props---did-verifier-server-blog-tags-facebook-79-a-805"
   },
-  "/did-issuer-server/blog/tags/hello-176": {
+  "/did-verifier-server/blog/tags/hello-de8": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
     "items": [
       {
-        "content": "content---did-issuer-server-blog-766-7ff"
+        "content": "content---did-verifier-server-blog-766-bad"
       },
       {
-        "content": "content---did-issuer-server-blog-871-b51"
+        "content": "content---did-verifier-server-blog-871-f74"
       }
     ],
-    "__props": "__props---did-issuer-server-blog-tags-hello-94-b-1a0"
+    "__props": "__props---did-verifier-server-blog-tags-hellod-1-a-241"
   },
-  "/did-issuer-server/blog/tags/hola-239": {
+  "/did-verifier-server/blog/tags/hola-cc5": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
     "items": [
       {
-        "content": "content---did-issuer-server-blog-925-35d"
+        "content": "content---did-verifier-server-blog-925-991"
       }
     ],
-    "__props": "__props---did-issuer-server-blog-tags-hola-3-d-3-23c"
+    "__props": "__props---did-verifier-server-blog-tags-hola-783-2de"
   },
-  "/did-issuer-server/blog/welcome-6ce": {
+  "/did-verifier-server/blog/welcome-416": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---did-issuer-server-blog-authorsace-94e"
+        "blogMetadata": "blogMetadata---did-verifier-server-blog-authorsace-740"
       },
-      "plugin": "plugin---did-issuer-server-blog-369-ae9"
+      "plugin": "plugin---did-verifier-server-blog-369-daf"
     },
-    "sidebar": "sidebar---did-issuer-server-blog-814-81f",
-    "content": "content---did-issuer-server-blog-welcomed-9-f-e01"
+    "sidebar": "sidebar---did-verifier-server-blog-814-495",
+    "content": "content---did-verifier-server-blog-welcomed-9-f-ffc"
   },
-  "/did-issuer-server/markdown-page-ca0": {
+  "/did-verifier-server/markdown-page-a1e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---did-issuer-server-markdown-pagea-74-ae6"
+      "plugin": "plugin---did-verifier-server-markdown-pagea-74-a6a"
     },
-    "content": "content---did-issuer-server-markdown-page-393-d7f"
+    "content": "content---did-verifier-server-markdown-page-393-575"
   },
-  "/did-issuer-server/docs-184": {
+  "/did-verifier-server/docs-f3c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---did-issuer-server-docsaba-215"
+      "plugin": "plugin---did-verifier-server-docsaba-372"
     }
   },
-  "/did-issuer-server/docs/next-7f8": {
+  "/did-verifier-server/docs/next-112": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---did-issuer-server-docs-nextf-98-65c"
+    "__props": "__props---did-verifier-server-docs-next-6-fd-e5e"
   },
-  "/did-issuer-server/docs/next-f5a": {
+  "/did-verifier-server/docs/next-b48": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/did-issuer-server/docs/next/did-issuer-server/api/Issuer_API_ko-f1a": {
+  "/did-verifier-server/docs/next/did-verifier-server/api/Verifier_API_ko-554": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-next-did-issuer-server-api-issuer-api-kob-0-c-dee"
+    "content": "content---did-verifier-server-docs-next-did-verifier-server-api-verifier-api-koca-8-2fd"
   },
-  "/did-issuer-server/docs/next/did-issuer-server/db/OpenDID_TableDefinition_Issuer-1d7": {
+  "/did-verifier-server/docs/next/did-verifier-server/db/OpenDID_TableDefinition_Verifier-049": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-next-did-issuer-server-db-open-did-table-definition-issuerb-59-30c"
+    "content": "content---did-verifier-server-docs-next-did-verifier-server-db-open-did-table-definition-verifier-624-340"
   },
-  "/did-issuer-server/docs/next/did-issuer-server/errorCode/Issuer_ErrorCode-91d": {
+  "/did-verifier-server/docs/next/did-verifier-server/errorCode/Verifier_ErrorCode-1b1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-next-did-issuer-server-error-code-issuer-error-coded-35-369"
+    "content": "content---did-verifier-server-docs-next-did-verifier-server-error-code-verifier-error-code-07-a-f62"
   },
-  "/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide-f54": {
+  "/did-verifier-server/docs/next/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko-b12": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-next-did-issuer-server-installation-open-did-issuer-server-installation-and-operation-guide-786-d1f"
+    "content": "content---did-verifier-server-docs-next-did-verifier-server-installation-open-did-verifier-server-installation-and-operation-guide-koc-05-f4b"
   },
-  "/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko-6c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-next-did-issuer-server-installation-open-did-issuer-server-installation-and-operation-guide-kofa-3-33c"
-  },
-  "/did-issuer-server/docs-b6d": {
+  "/did-verifier-server/docs-22a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---did-issuer-server-docs-4-d-5-61f"
+    "__props": "__props---did-verifier-server-docs-15-c-4c4"
   },
-  "/did-issuer-server/docs-04e": {
+  "/did-verifier-server/docs-c2d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko-daf": {
+  "/did-verifier-server/docs/did-verifier-server/api/Verifier_API_ko-cbd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-did-issuer-server-api-issuer-api-koa-0-c-472"
+    "content": "content---did-verifier-server-docs-did-verifier-server-api-verifier-api-kocbe-0e1"
   },
-  "/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer-5f3": {
+  "/did-verifier-server/docs/did-verifier-server/db/OpenDID_TableDefinition_Verifier-21b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-did-issuer-server-db-open-did-table-definition-issuer-13-a-658"
+    "content": "content---did-verifier-server-docs-did-verifier-server-db-open-did-table-definition-verifierb-66-2b1"
   },
-  "/did-issuer-server/docs/did-issuer-server/errorCode/Issuer_ErrorCode-4dd": {
+  "/did-verifier-server/docs/did-verifier-server/errorCode/Verifier_ErrorCode-118": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-did-issuer-server-error-code-issuer-error-codef-98-e34"
+    "content": "content---did-verifier-server-docs-did-verifier-server-error-code-verifier-error-code-478-de7"
   },
-  "/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide-322": {
+  "/did-verifier-server/docs/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko-9de": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-did-issuer-server-installation-open-did-issuer-server-installation-and-operation-guided-28-743"
+    "content": "content---did-verifier-server-docs-did-verifier-server-installation-open-did-verifier-server-installation-and-operation-guide-kof-93-2e8"
   },
-  "/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko-94a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---did-issuer-server-docs-did-issuer-server-installation-open-did-issuer-server-installation-and-operation-guide-ko-2-fc-5e1"
-  },
-  "/did-issuer-server/-2a5": {
+  "/did-verifier-server/-6ec": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---did-issuer-server-markdown-pagea-74-ae6"
+      "plugin": "plugin---did-verifier-server-markdown-pagea-74-a6a"
     },
-    "config": "config---did-issuer-server-5-e-9-329"
+    "config": "config---did-verifier-server-5-e-9-ad0"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko",
+  "title": "Open DID Verifier Server Installation And Operation Guide",
+  "description": "- Date: 2024-09-02",
+  "source": "@site/docs/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko.md",
+  "sourceDirName": "did-verifier-server/installation",
+  "slug": "/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko",
+  "permalink": "/did-verifier-server/docs/next/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-verifier-server/edit/main/docs/docs/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "puppeteer": {
+      "pdf": {
+        "format": "A4",
+        "displayHeaderFooter": true,
+        "landscape": false,
+        "scale": 0.8,
+        "margin": {
+          "top": "1.2cm",
+          "right": "1cm",
+          "bottom": "1cm",
+          "left": "1cm"
+        }
+      },
+      "image": {
+        "quality": 100,
+        "fullPage": false
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verifier Server Error",
+    "permalink": "/did-verifier-server/docs/next/did-verifier-server/errorCode/Verifier_ErrorCode"
+  }
+}

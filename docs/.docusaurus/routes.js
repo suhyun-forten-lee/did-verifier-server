@@ -3,154 +3,148 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/did-issuer-server/__docusaurus/debug',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug', '38b'),
+    path: '/did-verifier-server/__docusaurus/debug',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug', '8bf'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/config',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/config', '36f'),
+    path: '/did-verifier-server/__docusaurus/debug/config',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/config', 'baa'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/content',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/content', '13a'),
+    path: '/did-verifier-server/__docusaurus/debug/content',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/content', 'e1b'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/globalData',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/globalData', '5e0'),
+    path: '/did-verifier-server/__docusaurus/debug/globalData',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/globalData', 'e0b'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/metadata',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/metadata', '923'),
+    path: '/did-verifier-server/__docusaurus/debug/metadata',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/metadata', '69a'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/registry',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/registry', '885'),
+    path: '/did-verifier-server/__docusaurus/debug/registry',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/registry', 'a42'),
     exact: true
   },
   {
-    path: '/did-issuer-server/__docusaurus/debug/routes',
-    component: ComponentCreator('/did-issuer-server/__docusaurus/debug/routes', 'e29'),
+    path: '/did-verifier-server/__docusaurus/debug/routes',
+    component: ComponentCreator('/did-verifier-server/__docusaurus/debug/routes', 'e73'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog',
-    component: ComponentCreator('/did-issuer-server/blog', 'b9d'),
+    path: '/did-verifier-server/blog',
+    component: ComponentCreator('/did-verifier-server/blog', 'dd2'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/archive',
-    component: ComponentCreator('/did-issuer-server/blog/archive', '9ac'),
+    path: '/did-verifier-server/blog/archive',
+    component: ComponentCreator('/did-verifier-server/blog/archive', '591'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/authors',
-    component: ComponentCreator('/did-issuer-server/blog/authors', 'c29'),
+    path: '/did-verifier-server/blog/authors',
+    component: ComponentCreator('/did-verifier-server/blog/authors', 'c7f'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/did-issuer-server/blog/authors/all-sebastien-lorber-articles', '984'),
+    path: '/did-verifier-server/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/did-verifier-server/blog/authors/all-sebastien-lorber-articles', 'dc3'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/authors/yangshun',
-    component: ComponentCreator('/did-issuer-server/blog/authors/yangshun', '18d'),
+    path: '/did-verifier-server/blog/authors/yangshun',
+    component: ComponentCreator('/did-verifier-server/blog/authors/yangshun', '04a'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/first-blog-post',
-    component: ComponentCreator('/did-issuer-server/blog/first-blog-post', 'fa9'),
+    path: '/did-verifier-server/blog/first-blog-post',
+    component: ComponentCreator('/did-verifier-server/blog/first-blog-post', '1b0'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/long-blog-post',
-    component: ComponentCreator('/did-issuer-server/blog/long-blog-post', '51e'),
+    path: '/did-verifier-server/blog/long-blog-post',
+    component: ComponentCreator('/did-verifier-server/blog/long-blog-post', 'c42'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/mdx-blog-post',
-    component: ComponentCreator('/did-issuer-server/blog/mdx-blog-post', 'f93'),
+    path: '/did-verifier-server/blog/mdx-blog-post',
+    component: ComponentCreator('/did-verifier-server/blog/mdx-blog-post', '5a7'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/tags',
-    component: ComponentCreator('/did-issuer-server/blog/tags', '584'),
+    path: '/did-verifier-server/blog/tags',
+    component: ComponentCreator('/did-verifier-server/blog/tags', '998'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/tags/docusaurus',
-    component: ComponentCreator('/did-issuer-server/blog/tags/docusaurus', '3f8'),
+    path: '/did-verifier-server/blog/tags/docusaurus',
+    component: ComponentCreator('/did-verifier-server/blog/tags/docusaurus', 'de0'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/tags/facebook',
-    component: ComponentCreator('/did-issuer-server/blog/tags/facebook', 'eb7'),
+    path: '/did-verifier-server/blog/tags/facebook',
+    component: ComponentCreator('/did-verifier-server/blog/tags/facebook', '07c'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/tags/hello',
-    component: ComponentCreator('/did-issuer-server/blog/tags/hello', '176'),
+    path: '/did-verifier-server/blog/tags/hello',
+    component: ComponentCreator('/did-verifier-server/blog/tags/hello', 'de8'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/tags/hola',
-    component: ComponentCreator('/did-issuer-server/blog/tags/hola', '239'),
+    path: '/did-verifier-server/blog/tags/hola',
+    component: ComponentCreator('/did-verifier-server/blog/tags/hola', 'cc5'),
     exact: true
   },
   {
-    path: '/did-issuer-server/blog/welcome',
-    component: ComponentCreator('/did-issuer-server/blog/welcome', '6ce'),
+    path: '/did-verifier-server/blog/welcome',
+    component: ComponentCreator('/did-verifier-server/blog/welcome', '416'),
     exact: true
   },
   {
-    path: '/did-issuer-server/markdown-page',
-    component: ComponentCreator('/did-issuer-server/markdown-page', 'ca0'),
+    path: '/did-verifier-server/markdown-page',
+    component: ComponentCreator('/did-verifier-server/markdown-page', 'a1e'),
     exact: true
   },
   {
-    path: '/did-issuer-server/docs',
-    component: ComponentCreator('/did-issuer-server/docs', '184'),
+    path: '/did-verifier-server/docs',
+    component: ComponentCreator('/did-verifier-server/docs', 'f3c'),
     routes: [
       {
-        path: '/did-issuer-server/docs/next',
-        component: ComponentCreator('/did-issuer-server/docs/next', '7f8'),
+        path: '/did-verifier-server/docs/next',
+        component: ComponentCreator('/did-verifier-server/docs/next', '112'),
         routes: [
           {
-            path: '/did-issuer-server/docs/next',
-            component: ComponentCreator('/did-issuer-server/docs/next', 'f5a'),
+            path: '/did-verifier-server/docs/next',
+            component: ComponentCreator('/did-verifier-server/docs/next', 'b48'),
             routes: [
               {
-                path: '/did-issuer-server/docs/next/did-issuer-server/api/Issuer_API_ko',
-                component: ComponentCreator('/did-issuer-server/docs/next/did-issuer-server/api/Issuer_API_ko', 'f1a'),
+                path: '/did-verifier-server/docs/next/did-verifier-server/api/Verifier_API_ko',
+                component: ComponentCreator('/did-verifier-server/docs/next/did-verifier-server/api/Verifier_API_ko', '554'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/next/did-issuer-server/db/OpenDID_TableDefinition_Issuer',
-                component: ComponentCreator('/did-issuer-server/docs/next/did-issuer-server/db/OpenDID_TableDefinition_Issuer', '1d7'),
+                path: '/did-verifier-server/docs/next/did-verifier-server/db/OpenDID_TableDefinition_Verifier',
+                component: ComponentCreator('/did-verifier-server/docs/next/did-verifier-server/db/OpenDID_TableDefinition_Verifier', '049'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/next/did-issuer-server/errorCode/Issuer_ErrorCode',
-                component: ComponentCreator('/did-issuer-server/docs/next/did-issuer-server/errorCode/Issuer_ErrorCode', '91d'),
+                path: '/did-verifier-server/docs/next/did-verifier-server/errorCode/Verifier_ErrorCode',
+                component: ComponentCreator('/did-verifier-server/docs/next/did-verifier-server/errorCode/Verifier_ErrorCode', '1b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide',
-                component: ComponentCreator('/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide', 'f54'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko',
-                component: ComponentCreator('/did-issuer-server/docs/next/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko', '6c6'),
+                path: '/did-verifier-server/docs/next/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko',
+                component: ComponentCreator('/did-verifier-server/docs/next/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko', 'b12'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -159,40 +153,34 @@ export default [
         ]
       },
       {
-        path: '/did-issuer-server/docs',
-        component: ComponentCreator('/did-issuer-server/docs', 'b6d'),
+        path: '/did-verifier-server/docs',
+        component: ComponentCreator('/did-verifier-server/docs', '22a'),
         routes: [
           {
-            path: '/did-issuer-server/docs',
-            component: ComponentCreator('/did-issuer-server/docs', '04e'),
+            path: '/did-verifier-server/docs',
+            component: ComponentCreator('/did-verifier-server/docs', 'c2d'),
             routes: [
               {
-                path: '/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko',
-                component: ComponentCreator('/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko', 'daf'),
+                path: '/did-verifier-server/docs/did-verifier-server/api/Verifier_API_ko',
+                component: ComponentCreator('/did-verifier-server/docs/did-verifier-server/api/Verifier_API_ko', 'cbd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer',
-                component: ComponentCreator('/did-issuer-server/docs/did-issuer-server/db/OpenDID_TableDefinition_Issuer', '5f3'),
+                path: '/did-verifier-server/docs/did-verifier-server/db/OpenDID_TableDefinition_Verifier',
+                component: ComponentCreator('/did-verifier-server/docs/did-verifier-server/db/OpenDID_TableDefinition_Verifier', '21b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/did-issuer-server/errorCode/Issuer_ErrorCode',
-                component: ComponentCreator('/did-issuer-server/docs/did-issuer-server/errorCode/Issuer_ErrorCode', '4dd'),
+                path: '/did-verifier-server/docs/did-verifier-server/errorCode/Verifier_ErrorCode',
+                component: ComponentCreator('/did-verifier-server/docs/did-verifier-server/errorCode/Verifier_ErrorCode', '118'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide',
-                component: ComponentCreator('/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide', '322'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko',
-                component: ComponentCreator('/did-issuer-server/docs/did-issuer-server/installation/OpenDID_IssuerServer_InstallationAndOperation_Guide_ko', '94a'),
+                path: '/did-verifier-server/docs/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko',
+                component: ComponentCreator('/did-verifier-server/docs/did-verifier-server/installation/OpenDID_VerifierServer_InstallationAndOperation_Guide_ko', '9de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -203,8 +191,8 @@ export default [
     ]
   },
   {
-    path: '/did-issuer-server/',
-    component: ComponentCreator('/did-issuer-server/', '2a5'),
+    path: '/did-verifier-server/',
+    component: ComponentCreator('/did-verifier-server/', '6ec'),
     exact: true
   },
   {

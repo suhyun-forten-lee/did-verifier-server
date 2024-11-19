@@ -1,0 +1,24 @@
+{
+  "id": "did-verifier-server/db/OpenDID_TableDefinition_Verifier",
+  "title": "Open DID Verifier Database Table Definition",
+  "description": "- Date: 2024-09-04",
+  "source": "@site/docs/did-verifier-server/db/OpenDID_TableDefinition_Verifier.md",
+  "sourceDirName": "did-verifier-server/db",
+  "slug": "/did-verifier-server/db/OpenDID_TableDefinition_Verifier",
+  "permalink": "/did-verifier-server/docs/next/did-verifier-server/db/OpenDID_TableDefinition_Verifier",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-verifier-server/edit/main/docs/docs/did-verifier-server/db/OpenDID_TableDefinition_Verifier.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verifier API",
+    "permalink": "/did-verifier-server/docs/next/did-verifier-server/api/Verifier_API_ko"
+  },
+  "next": {
+    "title": "Verifier Server Error",
+    "permalink": "/did-verifier-server/docs/next/did-verifier-server/errorCode/Verifier_ErrorCode"
+  }
+}

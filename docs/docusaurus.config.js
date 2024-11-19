@@ -92,10 +92,20 @@ const config = {
             type: 'localeDropdown',
           },
           {
+            to: 'https://suhyun-forten-lee.github.io/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko',
+            label: 'architecture',
+            position: 'left',
+          },
+          {
+            to: 'http://localhost:3000/did-issuer-server/docs/did-issuer-server/api/Issuer_API_ko',
+            label: 'issuer',
+            position: 'left',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'verifier',
           },
           {
             href: 'https://github.com/OmniOneID',

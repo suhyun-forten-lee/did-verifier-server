@@ -1,0 +1,39 @@
+{
+  "id": "did-verifier-server/api/Verifier_API_ko",
+  "title": "Verifier API",
+  "description": "- 일자: 2024-08-19",
+  "source": "@site/docs/did-verifier-server/api/Verifier_API_ko.md",
+  "sourceDirName": "did-verifier-server/api",
+  "slug": "/did-verifier-server/api/Verifier_API_ko",
+  "permalink": "/did-verifier-server/docs/next/did-verifier-server/api/Verifier_API_ko",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/suhyun-forten-lee/did-verifier-server/edit/main/docs/docs/did-verifier-server/api/Verifier_API_ko.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "puppeteer": {
+      "pdf": {
+        "format": "A4",
+        "displayHeaderFooter": true,
+        "landscape": false,
+        "scale": 0.8,
+        "margin": {
+          "top": "1.2cm",
+          "right": "1cm",
+          "bottom": "1cm",
+          "left": "1cm"
+        }
+      },
+      "image": {
+        "quality": 100,
+        "fullPage": false
+      }
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Open DID Verifier Database Table Definition",
+    "permalink": "/did-verifier-server/docs/next/did-verifier-server/db/OpenDID_TableDefinition_Verifier"
+  }
+}

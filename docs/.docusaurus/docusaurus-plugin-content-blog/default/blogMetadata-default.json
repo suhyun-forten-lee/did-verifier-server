@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/did-issuer-server/blog",
+  "blogBasePath": "/did-verifier-server/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/did-issuer-server/blog/authors"
+  "authorsListPath": "/did-verifier-server/blog/authors"
 }
