@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/suhyun-forten-lee/did-issuer/server/edit/main/',
+            'https://github.com/suhyun-forten-lee/did-verifier-server/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
@@ -60,7 +60,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/suhyun-forten-lee/did-issuer/server/edit/main/',
+            'https://github.com/suhyun-forten-lee/did-verifier-server/edit/main/docs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
